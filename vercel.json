@@ -19,9 +19,5 @@
   "env": {
     "NODE_ENV": "production"
   },
-  "functions": {
-    "app/routes/**/*.ts": {
-      "maxDuration": 30
-    }
-  }
+  
 }
